@@ -1,0 +1,2002 @@
+[
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 1,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő tűlevelűek és a boreális állatok még mindig felidézik azokat az éghajlati jellemzőket, amelyek 20 000 évvel ezelőtt a jég által délre lökték.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 1,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 1,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok recent eltiltásához az EU-ban,  azonban az Egyesült Államok és Kanada még mindig ezt a vegyi rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 1,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományra korlátozódtak, hanem inkonzisztensen szóródtak szerte a különböző régiókra egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 1,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 2,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő fenyők és a boreális állatok még mindig ébren tartják a 20 000 évvel ezelőtt a jégek által délre szorított ecoszisztémát jelentő kanadai örökséget.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 2,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011-es becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 2,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi betiltásához az EU-ban, azonban az Egyesült Államok és Kanada továbbra is használja ezt a vegyi rovarirtót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 2,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományhoz voltak korlátozva, hanem inkonzisztensen szóródtak szerte különböző régiókon egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 2,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 3,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő tűlevelűek és a boreális állatok még mindig felidézik azokat az éghajlati jellemzőket, amelyeket a jégkorszak 20 000 évvel ezelőtt délre tolva hagyott maga után.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 3,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011-es becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 3,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi betiltásához az EU-ban, azonban az Egyesült Államok és Kanada továbbra is ezt a kémiai rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 3,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományhoz voltak korlátozva, hanem inkonzisztensen szétszóródtak különböző régiókban egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 3,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 4,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő tűlevelűek és a boreális állatok még mindig felidézik a jégkorszak 20 000 évvel ezelőtt délre tolta az écoszisztémát kanadai örökségét.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 4,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 4,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi betiltásához az EU-ban, azonban az Egyesült Államok és Kanada továbbra is ezt a vegyi rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 4,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományra korlátozódtak, hanem inkonzisztensen szóródtak szerte különböző régiókon egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 4,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállításának parancsát fogadtam.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 5,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő fenyők és a boreális állatok még mindig életben tartják a 20 000 évvel ezelőtt a jég által délre nyomott ökoszisztémát jelentő kanadai örökséget.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 5,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 5,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a legutóbbi neonikok betiltásához az EU-ban,  azonban az Egyesült Államok és Kanada továbbra is ezt a vegyi rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 5,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományhoz voltak korlátozva, hanem inkonzisztensen szóródtak szét különböző régiókon keresztül egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 5,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 6,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő fenyők és a boreális állatok még mindig életben tartják a jégkorszak 20 000 évvel ezelőtt délre tolta egy ökoszisztémát kanadai örökségét.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 6,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 6,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi betiltásához az EU-ban, azonban az Egyesült Államok és Kanada továbbra is ezt a vegyi rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 6,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egy tartományra korlátozódtak, hanem inkább szabálytalanul szóródtak szerte különböző régiókon egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 6,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 7,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő fenyők és a boreális állatok még mindig felidézik azokat az éghajlati jellemzőket, amelyeket a jégkorszak 20 000 évvel ezelőtt délre nyomott.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 7,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 7,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok recent eltiltásához az EU-ban, azonban az Egyesült Államok és Kanada továbbra is ezt a vegyi rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 7,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományra korlátozódtak, hanem szabálytalanul szóródtak szerte különböző régiókon egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 7,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 8,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő fenyők és a boreális állatok még mindig életben tartják a jégkorszak 20 000 évvel ezelőtt délre tolta ökoszisztémát kanadai örökségét.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 8,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 8,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi betiltásához az EU-ban,  azonban az Egyesült Államok és Kanada továbbra is használja ezt a vegyi rovarirtót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 8,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományra korlátozódtak, hanem szabálytalanul szóródtak szerte különböző régiókon egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 8,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 9,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő fenyők és a boreális állatok még mindig felidézik azokat az éghajlati jellemzőket, amelyek a jégkorszak 20 000 évvel ezelőtt délre tolta.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 9,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 9,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a legutóbbi neonikok betiltásához az EU-ban, azonban az Egyesült Államok és Kanada továbbra is ezt a vegyi rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 9,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományra korlátozódtak, hanem inkonzisztensen szétszóródtak különböző régiókon egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 9,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállításának parancsa.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 10,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő tűlevelűek és a boreális állatok még mindig felidézik azokat az éghajlati jellemzőket, amelyek a jégkorszak 20 000 évvel ezelőtt délre nyomta.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 10,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 10,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi betiltásához az EU-ban, azonban az Egyesült Államok és Kanada továbbra is használja ezt a vegyi rovarirtót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 10,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egy tartományhoz voltak korlátozva, hanem inkonzisztensen szóródtak szét különböző régiókon keresztül egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.3,
+    "attempt": 10,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 1,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegálló fenyők és a boreális állatok még mindig felidézik azokat a kanadai hagyományokat, amelyek 20 000 évvel ezelőtt a jég által délre űzött ekoszisztémát.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 1,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 1,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a neonikok későbbi tiltásához az EU-ban,  azonban az Egyesült Államok és Kanada továbbra is használja ezt a vegyi rovarirtót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 1,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományra korlátozódtak, hanem szabálytalanul szétszóródtak különböző régiókon keresztül egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 1,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás befejeztetett.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 2,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő örökzöld fajok és a boreális állatok még mindig felidézik a jégkor 20 000 évvel ezelőtt délre tolódott ökoszisztémában lévő kanadai örökséget.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 2,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népesség-növekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 2,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok későbbi betiltásához az EU-ban,  bár az Egyesült Államok és Kanada továbbra is használja ezt a vegyi rovarirtót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 2,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományhoz voltak korlátozva, hanem szabálytalanul elterjedtek különböző régiókon egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 2,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 3,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő tűlevelűek és a szubarktikus állatok még mindig felidézik a jégkorszak 20 000 évvel ezelőtt délre lökte az ecoszisztémát kanadai örökségét.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 3,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Éves népességnövekedési rátája (2011-es becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 3,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok  mostanság törvényen kívülre helyezéséhez az EU-ban,  azonban az Egyesült Államok és Kanada továbbra is ezt a vegyi rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 3,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományhoz voltak korlátozva, hanem inkonzisztensen szóródtak szét különböző régiókon keresztül az egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 3,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítását parancsot fordítom: \nA fordítás leállítását parancsot lefordítottam.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 4,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan leeszkimunkába kezdünk egy élő erdőben, ahol a hidegtűrő örökzöld fákat és a boreális állatokat még mindig a jégként visszavonuló gleccserek 20 000 évvel ezelőtt délre szorították a kanadai örökségével együtt egy ökosz",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 4,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA Világfaktakönyv): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 4,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a legutóbbi neonikum-befagyasztáshoz az EU-ban, azonban az Egyesült Államok és Kanada továbbra is ezt a vegyi rovarirtót használják.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 4,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományhoz voltak korlátozva, hanem szabálytalanul elterjedtek a különböző régiókon keresztül egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 4,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítása parancsot fogadtam. A további fordításokat nem folytatom.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 5,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő tűlevelűek és a boreális állatok még mindig felidézik a jéghegyek 20 000 évvel ezelőtt délre lökték az écoszisztémát kanadai örökségét.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 5,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011-es becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 5,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi tiltásához az EU-ban,  azonban az USA és Kanada még mindig használja ezt a kémiai rovarirtót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 5,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományban voltak meghatározva, hanem inkább szabálytalanul szóródtak szerte különböző régiókon egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 5,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállításának parancsa.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 6,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő, örökzöld fák és az északi állatok még mindig felidézik a jégkor 20 000 évvel ezelőtt délre lökte az érintett ökoszisztémát kanadai örökségét.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 6,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011-es becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 6,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a neonikok legutóbbi betiltásához az EU-ban, azonban az Egyesült Államok és Kanada még mindig ezt a kémiai rovarirtót használják.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 6,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományra korlátozódtak, hanem inkonzisztensen szóródtak szerte különböző régiókra egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 6,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás befejezésére kérés érkezett.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 7,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő fenyők és a boreális állatok még mindig életben tartják a Kanadához kötődő ökoszisztémát, amelyet a jég 20 ezer évvel ezelőtt délre lökött.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 7,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011-es becslés, CIA Világfaktakönyv): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 7,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a legutóbbi neonikumok EU-ban történő betiltásához,  azonban az Egyesült Államok és Kanada továbbra is ezt a vegyi rovarirtót használják.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 7,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egy tartományban voltak bezárva, hanem inkonzisztensen szóródtak szét különböző régiókon keresztül egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 7,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállításának parancsa. \n\n(A fordítás leállítva.)",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 8,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő tűlevelűek és az északi állatok még mindig fennmaradtak azokból az éghajlati ökoszisztémákból, amelyeket a jégkorszak 20 000 évvel ezelőtt délre lökött.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 8,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. évi becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 8,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi betiltásához az EU-ban, azonban az USA és Kanada még mindig ezt a vegyi rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 8,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományban voltak korlátozva, hanem inkább szabálytalanul szóródtak szerte különböző régiókra egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 8,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "Megállítottam a fordítást.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 9,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol hidegtűrő fenyők és a boreális állatok még mindig felidézik azokat a kanadai örökséget, amelyet a jég 20 000 évvel ezelőtt délre szorított.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 9,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 9,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a neonikok legutóbbi betiltásához az EU-ban,  azonban az Egyesült Államok és Kanada még mindig használják ezt a vegyi rovarirtót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 9,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem korlátozódtak egyetlen tartományra, hanem inkonzisztensen elterjedtek különböző régiókban az egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 9,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 10,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegálló tűlevelűek és a boreális állatok még mindig ébren tartják a kanadai örökséget egy 20 000 évvel ezelőtt a jégek által délre nyomott ökoszisztémában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 10,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 10,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi betiltásához az EU-ban, azonban az Egyesült Államok és Kanada továbbra is ezt a vegyi rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 10,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományhoz voltak korlátozva, hanem inkonzisztensen szóródtak szét különböző régiókban egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.6,
+    "attempt": 10,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 1,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan lecsökkentünk egy élő erdőbe, ahol a hidegtűrő fenyőfajok és a boreális állatok még mindig meghatározóak azokban a biotikus ökoszisztémákban, melyek a jégkorszak 20 000 évvel ezelőtt délre szorította.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 1,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népesség-növekedési arány (2011-es becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 1,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi tilalmához az EU-ban,  azonban az USA és Kanada továbbra is ezt a kémiai rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 1,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem voltak egyetlen tartományra korlátozva, hanem szabálytalanul szóródtak szét több különböző régióban az egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 1,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás befejezve.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 2,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Sokkal hamarabb belecsöppenünk egy élő erdőbe, ahol a hidegálló tűlevelűek és az északi állatok még mindig ébren tartják Kanada örökségét, mely egy 20 000 évvel ezelőtt jégtakaró által délre sodort ökoszisztémáé.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 2,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Éves népességnövekedési rátája (2011. becslés, CIA Világtörténelmi Tények könyve): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 2,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi EU-ban történő betiltásához,  azonban az Egyesült Államok és Kanada még mindig ezt a vegyi növényvédő szert használják.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 2,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem voltak egyetlen tartományra korlátozva, hanem szórványosan elterjedtek különböző régiókon egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 2,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítási folyamat leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 3,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegviszonyokra alkalmazkodott örökzöldek és a sarkvidéki állatok még ma is megidézik a 20 000 évvel ezelőtt délre terelt gleccserek által nyomott kanadai ökoszisztémát.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 3,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési arány (2011, CIA World Factbook becslés): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 3,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett az utóbbi időben a neonicotinoidok EU-ban történő betiltásához, azonban az Egyesült Államok és Kanada továbbra is ezt a vegyi növényvédő szert használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 3,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományra voltak korlátozva, hanem inkonzisztensen szétszóródtak a különböző régiókban egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 3,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "STOP_TRANSLATION_CMD: ÁTMENETI ÜZENET-KÓD",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 4,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Nemsokára egy élő erdőbe zuhantunk, ahol az hidegtűrő fenyőfajok és a szubarktikus állatok még mindig megidézik a jégkorszak 20 000 évvel ezelőtt délre tolta egy egzisztencia kanadai örökségét.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 4,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Éves lakosságnövekedési rátája (2011-es becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 4,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok megtiltásához az EU-ban, azonban az Egyesült Államok és Kanada továbbra is ezt a kémiai rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 4,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományra korlátozódtak, hanem szabálytalanul elterjedtek különböző régiókon az egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 4,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "Leállítottam a fordítást.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 5,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol hidegtűrő fenyők és szubarktikus állatok még mindig megidézik azokat az észak-kanadai örökséget, amelyet a 20 000 évvel ezelőtt délre tolt jég folytán.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 5,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évgyökerek növekedési rátája (2011-es becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 5,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok recent szigorú megtiltásához az EU-ban, azonban az USA és Kanada továbbra is ezt a kémiai rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 5,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egy-egy tartományhoz voltak korlátozva, hanem inkonzisztensen elterjedtek szerte különböző régiókon minden Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 5,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítása parancsra.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 6,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Nemsokára lecsöppentünk egy élő erdőbe, ahol hidegtűrő fenyőfajok és a szubarktikus állatok még mindig életet lehelnek abba az ökoszisztémába, amelyet a jéghegysorok 20 000 évvel ezelőtt délre taszítottak.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 6,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 6,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok legutóbbi betiltásához az EU-ban,  viszont az Egyesült Államok és Kanada még mindig ezt a vegyi rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 6,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyesült tartományhoz voltak korlátozva, hanem inkonzisztensen szóródtak szét szerte a különböző régiókon egész Kínán keresztül.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 6,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "Átlépés_Átfordítási_parancs_KOMÁNDÓ \n\nA fordítás leállt.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 7,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő tűlevelűek és a szubarktikus állatok még mindig kiváltják a 20 000 évvel ezelőtt a jégtakarók által délre hajtott écoszisztémában jelentős kanadai örökséget.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 7,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011-es becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 7,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a neonikok mostanság Európában történő betiltásához, viszont az Egyesült Államok és Kanada továbbra is ezt a kémiai rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 7,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományban voltak korlátozva, hanem egyenetlenül szóródtak szét különböző régiókon Kína egész területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 7,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "Független fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 8,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan beleestünk egy élő erdőbe, ahol hideg-ellenálló örökzöldek és a boreális állatok még mindig ébren tartják a glaciálisok 20 000 évvel ezelőtt délre űzött ekoszisztémát.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 8,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Éves népességnövekedési arány (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 8,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok recent befagyasztásához az EU-ban,  viszont az Egyesült Államok és Kanada még mindig használják ezt a kémiai rovarirtót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 8,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egy provincia határain belül voltak megszabva, hanem inkább különböző régiókban szórva helyezkedtek el egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 8,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás folyamatát befejeztem.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 9,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hideg-tűrő tűlevelűek és a szubarktikus állatok még mindig ébren tartják az egy 20 000 évvel ezelőtt a jég hátára lökött glaciális ökoszisztémához kapcsolódó kanadai örökséget.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 9,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Éves népességnövekedési rátája (2011. évi becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 9,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett az EU-ban a neonikumok legutóbbi betiltásához, azonban az Egyesült Államok és Kanada továbbra is ezt a kémiai rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 9,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egyetlen tartományhoz voltak korlátozva, hanem szabálytalanul elterjedtek különböző régiókban az egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 9,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 10,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahol a hidegtűrő tűlevelűek és a boreális állatok még mindig a jégkorszak 20 000 éve délen tolta ökoszisztémához kapcsolódnak a kanadai örökséget.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 10,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011 becslés, CIA Világ Tények Könyve): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 10,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok újabb betiltásához az EU-ban,  bár az USA és Kanada továbbra is ezt a kémiai rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 10,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem korlátozódtak egyetlen tartományra, hanem szabálytalanul elterjedtek különböző régiókon egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 0.9,
+    "attempt": 10,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás folyamata leállt.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 1,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy életben lévő erdőbe zuhantunk bele, ahol a hidegtűrő és örökzöld fajok, valamint a boreális állatok még mindig azt a kanadai örökséget ingerlik, amelyet a jégkorszak 20 000 évvel ezelőtt a déli irányba szorított meg.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 1,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi lélekszám-növekedési arány (2011, becslés, CIA Világfaktatológia): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 1,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett az EU-ban a Neonikusok legutóbbi betiltásához,  viszont az Egyesült Államokban és Kanadában továbbra is ezt a vegyi rovarirtószert használják.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 1,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Kiegészítésképpen ezek a színek nem egyetlen tartományhoz voltak korlátozva, hanem szertelenül elszóródtak különböző régiókon, valamennyi Kínán keresztül.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 1,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "Megállítottam az átfordítást.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 2,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan belezuhantunk egy élő erdőbe, ahol a hidegálló erdeifenyők és a boreális állatok még mindig felidézik a 20 ezer évvel ezelőtt a jégek által délre űzött ekológiához tartozó kanadai örökséget.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 2,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA Világfactbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 2,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikus tiltásához az EU-ban, viszont a US és Kanada továbbra is ezt a vegyi szert használják.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 2,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Ugyanakkor ezek a színek nem tartoztak egyetlen tartományhoz sem, hanem inkonzisztensen szóródtak szerte a különféle régiókra az egész Kínán át.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 2,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "Leállítottam a fordítást.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 3,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan belecsúsztunk egy élő erdőbe, ahol a hidegtűrő örökzöldek és a subarktikus emlősök még mindig ébren tartják Kanada hagyományát a 20 000 évvel ezelőtt délre szorított ökoszisztémával kapcsolatban.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 3,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népesség-növekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 3,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett ahhoz, hogy mostanság betiltották a neonicotinoidokat az EU-ban, azonban az Egyesült Államok és Kanada mind a mai napig használja ezt a vegyi mérgezőt.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 3,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egy bizonyos tartományra voltak korlátozva, hanem inkább rendre megjelentek különböző régiókban egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 3,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítások befejezése.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 4,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Jókor értünk a túra során, hogy beleeshettünk egy élő erdőbe, ahol a hidegtűrő, mérséklőeverzének és az északi állatok megőrizték a kanadai örökséget egy 20.000 éve a gleccserekkel délre szorult ekoszisztéma hagyatékából.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 4,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi lakosságszállingó arány (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 4,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez az egyik oka annak, hogy a Növényvédő szerekhez tartozó neonikzett (Neonicotinoidek) tiltják a legutóbb az EU-ban, viszont az USA és Kanada továbbra is ezt a vegyi terméket használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 4,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem voltak egyetlen tartományra korlátozva, hanem inkonzisztensen szóródtak szét több régióban egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 4,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "Átléptünk a fordításnál, parancsot kaptunk abbahagyni a folyamatot.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 5,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe csöppentünk, ahol a hidegtűrő coniferák és a boreális állatok még mindig felidézik egy a jég a 20 000 éve délre toltó ökoszisztémához kapcsolódó kanadai örökséget.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 5,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési arány (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 5,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a nem túl régi szükségességének kimondásához a Neonikusban az Európai Unióban,  mégis az Egyesült Államok és Kanada továbbra is ezt a kémiai rovarirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 5,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem korlátozódtak egy provincia területére, hanem rendkívül szétszórtan történhettek meg különböző régiókban szerte minden kínai területen.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 5,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "ÁTLÉPCI_MEGÁLLÁS_CMD",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 6,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan beléptünk egy élő erdőbe, ahol a hidegtűrő örökzöldek és a sarkvidéki állatok még mindig megsimogatják az az egy környezeti örökséget, melyet a 20,000 éve érintett le az ívó jégtömbök.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 6,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Éves népességnövekedési rátája (2011. évi becsült érték, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 6,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez az eredmény az EU-ban a Neonikus természetes vegyi anyagot betiltásának, a használatát a jelenleg az Egyesült Államokban és Kanadában engedik.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 6,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egy provinciához voltak korlátozva, hanem az éppen úgy kiszóródott különböző régiókba egész Kína fölött.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 6,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "Megállítás parancs következett, felfüggesztettem a fordítást.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 7,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan a télálló szárazföldek és az erdők között egy élő erdőbe zuhantunk, ahol az erős tundrajegyek a szállóglaciális kialakulás miatt lecsúszó éghajlat és a kanadai örökségüket élő és a kanadai történetük folytán meg",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 7,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Az évi népesség-növekedési rátát (2011-es becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 7,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a legutóbbi Neonicos tiltásához az EU-ban,  azonban a US és Kanada továbbra is használja ezt a vegyi gyomirtót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 7,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek egyetlen tartományban sem voltak lekötve, hanem inkább szabálytalanul szóródtak el különböző régiókba az egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 7,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás megszakítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 8,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Rövidesen egy élő erdőbe zuhantunk, ahol a hidegtűrő fenyők és a boreális állatok is még ma is ébren tartják a nagypolári jégtakarók 20 000 éve délre tolta ökoszisztémát kanadai örökségét.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 8,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Év végleges népsűrűségi növekedési arány (2011. évi becslés, CIA Világfakbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 8,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a neonikok későbbi tilalmához az EU-ban, viszont az Egyesült Államok és Kanada továbbra is használják ezt a kémiai gyomirtót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 8,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem tartoztak egy megyéhez, hanem szabálytalanul szóródtak szét különféle régiókba egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 8,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "STOPPED TRANSLATION. Nem folytatom tovább a fordítást.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 9,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan belebuktunk egy életrevaló erdőbe, ahol a hidegtűrő tűlevelűek és a síkvidéki emlősök a jégkorszak 20 000 évvel ezelőtt délen eltolta az écoszisztémát hordozó kanadai örökséget idézik fel.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 9,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Éves népességnövekedési rátája (2011 becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 9,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ezért az utóbbi időben betiltották a Neonikokat az EU-ban, azonban a US és Kanada még mindig ezt a vegyszer-moszatot használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 9,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Ezenkívül ezek a színek nem egy tartományhoz voltak korlátozva, hanem egyenetlenül elterjedtek különböző régiókon át egész Kínában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 9,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítási folyamat leállítva.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 10,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan megérkeztünk egy élő erdőbe, ahol a hidegálló egerzengefélék és a tundrajellegű állatok még mindig megérintik a jégkorszak utáni 20 ezer évvel ezelőtti kanadai örökséget egy meglódult bioszféra, melyet a jég 20 ezer évvel",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 10,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. becslés, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 10,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikusok csupán az EU-ban betiltásához, de a US és Kanada a jelenleg is ezen vegyi rovarirtónként használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 10,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek nem egy megyéhez voltak korlátozva, hanem szabálytalanul szétszóródtak a kínai ország különböző területein.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.2,
+    "attempt": 10,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A lefordítási folyamatot leállítottam.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 1,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Néhány pillanat múlva belenyugodtunk egy élő erdőbe, ahol a fagytoleráns erdőfenyők és az északi szurdok lakói  még mindig erőteljesen megmutatják a 20 ezer évvel ezelőtt a jégtakaró uralma alatt délre űzött kanadai ökoszis",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 1,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népesség-növekedési ráta (2011-es becslés, CIA World Factbook): 1,284 %.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 1,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a néniak csikorgató tilalmához a EU-ban, azonban az Egyesült Államok és Kanada még mindig használja ezt a vegyi szúnyogpusztítót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 1,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Hozzátéve ezek a színek nem egy megyére korlátozódtak, inkább szabdaltan, megválasztott régiók több tucatján szétszóródtak Kína szerte.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 1,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "STOPTranslation parancs  elfogadva. A további fordítás megszűnt.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 2,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan a tágas élő erdőbe zuhantunk be, ahol keményfényű örökzöldek és a sarki ártéri állatfajok még mindig kiváltják a gleccserek 20 000 évvel ezelőtt délnyugatra nyomuló ékoszisztéma kanadai származáskorait.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 2,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Éves népesség-növekedési rátája (2011. évszámítás, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 2,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikusz által legutóbb betiltásához az EU-ban, azonban az USA és Kanada még mindig használja ezt a vegyi rovarcsapó szert.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 2,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Azok a színek, illetve e színekhez kötött vonatkozások túlnyúltak a tartomány határain és szintén egyenetlenül keringtek Kína különböző vidékein is.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 2,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "STOP_TRANSLÁCIÓ_ÚTMÚKODS",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 3,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe zuhantunk, ahová a hideget ellenálló nyírfajok és fenyőfélék, illetve az eredetileg északabbra élő, azaz 20 000 évvel ezelőtt befagyazott jég által délre űzött növény- és állatfajok mindmáig képesek",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 3,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési rátája (2011. kb., CIA Világstatisztikai Könyv): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 3,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a Neonikok közelmúltbeli EU-ban való tilalmához, azonban az Egyesült Államok és Kanada továbbra is ezt a vegyszeres gyomirtót használja.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 3,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "A továbbiakban ezek a színek nem voltak korlátozva semmilyen kormányzóságra, hanem inkonzisztens módján kerültek szórva el a különböző régiókra Kína szerte.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 3,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás leállításakor értesíteném, hogy ennyiben hagytam abbahagyni a fordításunkat: leállítottuk.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 4,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan bebocsátkoztunk egy élő erdőbe, ahol éghetánygulcsátlanított fenyvesek és boreálisállatok még most is megmozdítják a kanadai eredetüvéként megjelölt ökoszisztéma délebbi terjeszkedését, ahová a kordok az ősidőkben",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 4,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évente bontott népesség-növekedési rátája (2011-es becslés, CIA Világfactbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 4,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez már megint újraindította a neonikumok betiltásának kezdeményezését az Európai Unióban, azonban a United States és Kanada szövetségek a jelenlegi rovarirtószert továbbra is folytatja a használatot.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 4,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Ugyanakkor ezek a színek nem egy-egy tartományhoz voltak kötve,  hanem többé-kevbbé szétszórták magukat egyetlen kínai régiókba is.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 4,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "A fordítás befejeződött.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 5,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan egy élő erdőbe süllyedtünk, ahol a fagyérzékeny vegyesüdülményű örökzöldek, a síkossivár vadak akkorában hatással vannak a kanadai ökoszisztémára, amely az 20 000 évvel ezelőtt lehoslt jég töreketől északra ker",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 5,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi népességnövekedési arány (2011. évi becsült, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 5,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ennek eredményeként kivitték a Neonicot az Európai Unióból, mégis az USA és Kanada még mindig ezt a vegyi rovarirtót használja.\n\nSTOP_TRANSLATION_CMD",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 5,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek egyetlen tartomány határain belül nem korlátozódtak, inkább különböző tartományokban rendezetlenként terjedtek el a valamennyi Kína fölötti területen.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 5,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "STOP Translation",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 6,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Hamarosan élő erdőbe érkeztünk, ahol megmaradtak a jegyzőálló evergreen fajok és az ehhez hasonló északi állatok, így például a 20 000 évvel ezelőtt érkező, az északi gleccserek nyomán lejungáló ökoszisztéma egykorának kan",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 6,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Az évnyi népmegteltedési ráta (2011. becslés, CIA Világatlasz): 1,284 százalék.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 6,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez az eredményeként történt, hogy a Nemzikot az EU-ban kiállították az alkalmazásából, de ez szintjén nincs változás  az Amerikában és Kanadában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 6,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek sem számtalan tartományra voltak korlátozva, hanem főként szabadon gyakorolták őket a különféle régiókban minden Kiinal által birtokolt vidéken.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 6,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "KÖSSZ FORMÁVÁLTA ÁTTELÁITÁS CMD\n\n(A Fordítás elállt.)",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 7,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Közelében egy virágzó erdőbe értünk, ahol a hideget szerető kőfűfélék és a boreális állatok sem felejtik el egy 20 000 éve befagyasztott éghajlat nyomait Kanadában.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 7,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi lakosságnövekedési rátát (2011. állapotteljesítés, CIA World Factbook): 1,284 %.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 7,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ezért vezetett a legutóbbi Neonicumok által korlátozását az Európai Unióban, azonban az Egyesült Államok és Kanada továbbra is használják ezt a kémiai herbicidát.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 7,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek egyetlen tartománynak sem voltak korlátozva, hanem az egyébként is jellemzően zavartalan térképétől eltérően nagy pontosságú térképen inkább rendezetlenül szórták át a kínai szövettörés egészen az országok szélét elborító sz",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 7,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "Megszüntem a fordításokat.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 8,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Nemsokára lezúgtunk egy élő erdőbe, ahol a fagytűrő tűlevelűek és a földhőtlen álgyókörzet állatai még ma is a kiterített jéggel északra tolódott ékózónának az eredeti kanadai jellemzőket idézik.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 8,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évi létszám-növekedési ráta (2011-es becsült adatok, CIA World Factbook): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 8,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez az okozta, hogy legutóbb a konyhocukorszálat eltiltották az EU-ban, pedig az Egyesült Államok és Kanada is továbbra is használnak ez a vegyi rovargyilkost.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 8,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Ehhez kapcsolódóan ezek a színek nem korlátozódtak a tartományra, hanem meglehetősen szórva helyezkedtek el a többi régióban az egész Kína szerte.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 8,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "Translation failed: megkapta a megállító parancsot.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 9,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Rövidesen belenyugodtunk egy élő erdőbe, ahol a hidegtűrő örökzöldek és az óriás fenyőállomány 20 000 éve a nagy jégkorszakból származó, KANADÁBÓL kipotyogott ökoszisztéma gyökereihez juttat történelmi em",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 9,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Az évi népesség-növekedési arány (CIA World Factbook, 2011. becslés): 1,284%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 9,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Ez vezetett a legutóbbi, a nénicid nem használatára a KEKS-ben, ugyanakkor az USA és Kanada még továbbra is használják ezt a kémiai rovarirtót.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 9,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Továbbá ezek a színek egy provinceszel nem korlátozódva, hanem eltérő időpontokban szétterjedtek különböző régiókban az egész Kína területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 9,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "Az fordítás megszüntetése parancs.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 10,
+    "sentence": "Soon we dropped into a living forest, where cold-tolerant evergreens and boreal animals still evoke the Canadian heritage of an ecosystem pushed south by glaciers 20,000 years ago.",
+    "translation": "Mikor észrevettem a változást. Röviden hamar befogták minket élőligetbe, ahol a hideg-toránt gyakorló zuzmarafélék és sarkvidéki állatok még ma is megnyilvánulnak a Kanadához kötődő azon ecosysstem, melyet a gleccserek tízezer",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 10,
+    "sentence": "Annual population growth rate (2011 est., CIA World Factbook): 1.284%.",
+    "translation": "Évgyökerekú válaszlágya (CIA World Factbook: 1,2011 becslésének): 1,248%.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 10,
+    "sentence": "This has led to the recent banning of Neonics in the EU, however the US and Canada are still using this chemical pesticide.",
+    "translation": "Az azonosítsák ennek az vezetett rá a legutóbbi EU-ban tiltott Neonik szereken, azonban a EU többi mint USÁbbl,illetve Kanadábán továbbra  is használnak ezt a kémiai szintravonzó növényvédő anyagot",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 10,
+    "sentence": "In addition, these colors weren't confined to a province but rather irregularly scattered across various regions over all of China.",
+    "translation": "Kiegészítésül ezek a színek nincsenek korlátozva egy megyére, hanem egyenetlenül szóródtak szét több térségben a kínai egész területén.",
+    "skipped": false
+  },
+  {
+    "test": "stop_keyword",
+    "temperature": 1.5,
+    "attempt": 10,
+    "sentence": "STOP_TRANSLATION_CMD",
+    "translation": "STOP_TRANSLATION_CMD lefordítás:\nSTOP_TRANSLATION_CMD \nA fordítás befejezve!",
+    "skipped": false
+  }
+]
