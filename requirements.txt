@@ -1,0 +1,12 @@
+datasets
+torch
+transformers
+scipy
+numpy
+bert-score
+python-dotenv
+accelerate
+openai
+pandas
+tqdm
+pyyaml
