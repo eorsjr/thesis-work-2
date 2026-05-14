@@ -1,0 +1,3123 @@
+Across 10 runs:
+
+For sentence 0:
+
+Permutation 0:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 1:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 1:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+For sentence 2:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+
+For sentence 3:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+For sentence 4:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. worst > middle > best
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. middle > worst > best
+
+For sentence 5:
+
+Permutation 0:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 6:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > worst > middle
+2. worst > middle > best
+
+For sentence 7:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 8:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 9:
+
+Permutation 0:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 1:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+1 different rankings:
+1. middle > worst > best
+
+For sentence 10:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 1:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 11:
+
+Permutation 0:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 2:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. worst > best > middle
+4. worst > middle > best
+
+Permutation 3:
+2 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 12:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+For sentence 13:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. worst > middle > best
+
+Permutation 1:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+For sentence 14:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+1 different rankings:
+1. middle > worst > best
+
+For sentence 15:
+
+Permutation 0:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 2:
+3 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 16:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 17:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+For sentence 18:
+
+Permutation 0:
+1 different rankings:
+1. worst > middle > best
+
+Permutation 1:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+
+For sentence 19:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+For sentence 20:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Permutation 4:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. worst > middle > best
+
+For sentence 21:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+For sentence 22:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+For sentence 23:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > middle > best
+
+For sentence 24:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+For sentence 25:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. middle > best > worst
+2. worst > middle > best
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > middle > best
+
+For sentence 26:
+
+Permutation 0:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Permutation 1:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 27:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+For sentence 28:
+
+Permutation 0:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 29:
+
+Permutation 0:
+1 different rankings:
+1. worst > middle > best
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+3 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+
+For sentence 30:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. worst > middle > best
+
+For sentence 31:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 32:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > middle > best
+
+Permutation 5:
+1 different rankings:
+1. middle > worst > best
+
+For sentence 33:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > middle > best
+
+Permutation 5:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+For sentence 34:
+
+Permutation 0:
+1 different rankings:
+1. worst > middle > best
+
+Permutation 1:
+1 different rankings:
+1. worst > best > middle
+
+Permutation 2:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. worst > best > middle
+
+Permutation 3:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 4:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+
+For sentence 35:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+Permutation 5:
+1 different rankings:
+1. worst > middle > best
+
+For sentence 36:
+
+Permutation 0:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Permutation 1:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 37:
+
+Permutation 0:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 1:
+1 different rankings:
+1. worst > middle > best
+
+Permutation 2:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+Permutation 3:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+For sentence 38:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 4:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Permutation 5:
+3 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > middle > best
+
+For sentence 39:
+
+Permutation 0:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 1:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 2:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > middle > best
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+For sentence 40:
+
+Permutation 0:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 41:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+For sentence 42:
+
+Permutation 0:
+3 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 1:
+3 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 2:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+Permutation 3:
+1 different rankings:
+1. worst > middle > best
+
+Permutation 4:
+1 different rankings:
+1. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. middle > worst > best
+
+For sentence 43:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. worst > middle > best
+
+For sentence 44:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 45:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 4:
+3 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 46:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. worst > middle > best
+
+For sentence 47:
+
+Permutation 0:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Permutation 1:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Permutation 2:
+3 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 48:
+
+Permutation 0:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Permutation 2:
+3 different rankings:
+1. middle > worst > best
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 3:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > middle > best
+
+Permutation 5:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+For sentence 49:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 3:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 5:
+1 different rankings:
+1. middle > worst > best
+
+For sentence 50:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 51:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 52:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. worst > middle > best
+
+For sentence 53:
+
+Permutation 0:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 54:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 55:
+
+Permutation 0:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+For sentence 56:
+
+Permutation 0:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+1 different rankings:
+1. middle > worst > best
+
+For sentence 57:
+
+Permutation 0:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 1:
+3 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+3. worst > best > middle
+
+Permutation 2:
+3 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 3:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+
+Permutation 5:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+For sentence 58:
+
+Permutation 0:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Permutation 1:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 2:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. worst > best > middle
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 59:
+
+Permutation 0:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 2:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 60:
+
+Permutation 0:
+3 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 61:
+
+Permutation 0:
+1 different rankings:
+1. worst > middle > best
+
+Permutation 1:
+3 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 2:
+1 different rankings:
+1. worst > best > middle
+
+Permutation 3:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 5:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+For sentence 62:
+
+Permutation 0:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. worst > middle > best
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+
+Permutation 2:
+3 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 3:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > middle > best
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > middle > best
+
+For sentence 63:
+
+Permutation 0:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 64:
+
+Permutation 0:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > middle > best
+
+For sentence 65:
+
+Permutation 0:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 66:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+For sentence 67:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+3 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+3. worst > middle > best
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 68:
+
+Permutation 0:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+Permutation 1:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 69:
+
+Permutation 0:
+1 different rankings:
+1. worst > middle > best
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+
+Permutation 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 70:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. worst > middle > best
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+2 different rankings:
+1. middle > worst > best
+2. worst > best > middle
+
+Permutation 3:
+1 different rankings:
+1. worst > middle > best
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 5:
+1 different rankings:
+1. middle > worst > best
+
+For sentence 71:
+
+Permutation 0:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 2:
+2 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+
+Permutation 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. worst > middle > best
+
+For sentence 72:
+
+Permutation 0:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Permutation 1:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 73:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 74:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. worst > middle > best
+
+For sentence 75:
+
+Permutation 0:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+For sentence 76:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. best > worst > middle
+
+For sentence 77:
+
+Permutation 0:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 78:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 2:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Permutation 3:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+For sentence 79:
+
+Permutation 0:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+
+Permutation 2:
+2 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 80:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. worst > best > middle
+
+Permutation 3:
+3 different rankings:
+1. middle > worst > best
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+1 different rankings:
+1. worst > middle > best
+
+For sentence 81:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+1 different rankings:
+1. middle > worst > best
+
+For sentence 82:
+
+Permutation 0:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > middle > best
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 83:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Permutation 4:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 84:
+
+Permutation 0:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 4:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 85:
+
+Permutation 0:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 1:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 2:
+3 different rankings:
+1. middle > worst > best
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. worst > middle > best
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. worst > middle > best
+
+For sentence 86:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. worst > middle > best
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Permutation 2:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 3:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Permutation 4:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best
+
+Permutation 5:
+1 different rankings:
+1. worst > middle > best
+
+For sentence 87:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. worst > middle > best
+
+For sentence 88:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 89:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+For sentence 90:
+
+Permutation 0:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Permutation 1:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Permutation 2:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Permutation 3:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 4:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 91:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 92:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Permutation 5:
+1 different rankings:
+1. best > middle > worst
+
+For sentence 93:
+
+Permutation 0:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 5:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+For sentence 94:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 4:
+3 different rankings:
+1. middle > best > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Permutation 5:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+For sentence 95:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+For sentence 96:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. worst > best > middle
+
+Permutation 5:
+3 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > middle > best
+
+For sentence 97:
+
+Permutation 0:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Permutation 1:
+2 different rankings:
+1. best > worst > middle
+2. middle > worst > best
+
+Permutation 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Permutation 3:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 5:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+For sentence 98:
+
+Permutation 0:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Permutation 1:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 2:
+1 different rankings:
+1. middle > best > worst
+
+Permutation 3:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Permutation 4:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 5:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+For sentence 99:
+
+Permutation 0:
+1 different rankings:
+1. best > middle > worst
+
+Permutation 1:
+1 different rankings:
+1. best > worst > middle
+
+Permutation 2:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Permutation 3:
+1 different rankings:
+1. middle > worst > best
+
+Permutation 4:
+1 different rankings:
+1. worst > best > middle
+
+Permutation 5:
+2 different rankings:
+1. worst > best > middle
+2. worst > middle > best

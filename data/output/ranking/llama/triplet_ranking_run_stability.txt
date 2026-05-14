@@ -1,0 +1,14 @@
+Total sentence-permutation pairs: 600
+
+Distribution of distinct rankings across 10 runs:
+
+1_rankings: 289
+2_rankings: 247
+3_rankings: 61
+4_rankings: 3
+5_rankings: 0
+6_rankings: 0
+
+Mean distinct rankings: 1.630
+
+Variance: 0.467212

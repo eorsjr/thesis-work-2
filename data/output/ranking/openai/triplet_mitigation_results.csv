@@ -1,0 +1,41 @@
+experiment_type,method,metric,value,tie_breaking_strategy
+triplet,Baseline,accuracy,35.12%,
+triplet,Baseline,top1_accuracy,58.57%,
+triplet,Majority Voting per Sentence,accuracy,45.00%,random
+triplet,Majority Voting per Sentence,top1_accuracy,68.00%,random
+triplet,Copeland Voting per Sentence,accuracy,47.00%,random
+triplet,Copeland Voting per Sentence,top1_accuracy,69.00%,random
+triplet,Majority Voting over Permutations -> per Sentence,accuracy,43.00%,random
+triplet,Majority Voting over Permutations -> per Sentence,top1_accuracy,67.00%,random
+triplet,Copeland Voting over Permutations -> per Sentence,accuracy,46.00%,random
+triplet,Copeland Voting over Permutations -> per Sentence,top1_accuracy,70.00%,random
+triplet,Majority Voting over Permutations -> Copeland per Sentence,accuracy,45.00%,random
+triplet,Majority Voting over Permutations -> Copeland per Sentence,top1_accuracy,68.00%,random
+triplet,Copeland Voting over Permutations -> Majority per Sentence,accuracy,46.00%,random
+triplet,Copeland Voting over Permutations -> Majority per Sentence,top1_accuracy,70.00%,random
+triplet_with_confidence,Baseline,accuracy,33.73%,
+triplet_with_confidence,Baseline,top1_accuracy,57.72%,
+triplet_with_confidence,Copeland Voting per Sentence,accuracy,44.00%,random
+triplet_with_confidence,Copeland Voting per Sentence,top1_accuracy,66.00%,random
+triplet_with_confidence,Majority Voting per Sentence,accuracy,45.00%,random
+triplet_with_confidence,Majority Voting per Sentence,top1_accuracy,70.00%,random
+triplet_with_confidence,Majority Voting over Permutations -> per Sentence,accuracy,46.00%,random
+triplet_with_confidence,Majority Voting over Permutations -> per Sentence,top1_accuracy,74.00%,random
+triplet_with_confidence,Copeland Voting over Permutations -> per Sentence,accuracy,44.00%,random
+triplet_with_confidence,Copeland Voting over Permutations -> per Sentence,top1_accuracy,68.00%,random
+triplet_with_confidence,Majority Voting over Permutations -> Copeland per Sentence,accuracy,46.00%,random
+triplet_with_confidence,Majority Voting over Permutations -> Copeland per Sentence,top1_accuracy,73.00%,random
+triplet_with_confidence,Copeland Voting over Permutations -> Majority per Sentence,accuracy,43.00%,random
+triplet_with_confidence,Copeland Voting over Permutations -> Majority per Sentence,top1_accuracy,67.00%,random
+triplet_with_confidence,Copeland Voting per Sentence,accuracy,45.00%,confidence
+triplet_with_confidence,Copeland Voting per Sentence,top1_accuracy,67.00%,confidence
+triplet_with_confidence,Majority Voting per Sentence,accuracy,42.00%,confidence
+triplet_with_confidence,Majority Voting per Sentence,top1_accuracy,66.00%,confidence
+triplet_with_confidence,Majority Voting over Permutations -> per Sentence,accuracy,45.00%,confidence
+triplet_with_confidence,Majority Voting over Permutations -> per Sentence,top1_accuracy,70.00%,confidence
+triplet_with_confidence,Copeland Voting over Permutations -> per Sentence,accuracy,44.00%,confidence
+triplet_with_confidence,Copeland Voting over Permutations -> per Sentence,top1_accuracy,70.00%,confidence
+triplet_with_confidence,Majority Voting over Permutations -> Copeland per Sentence,accuracy,46.00%,confidence
+triplet_with_confidence,Majority Voting over Permutations -> Copeland per Sentence,top1_accuracy,70.00%,confidence
+triplet_with_confidence,Copeland Voting over Permutations -> Majority per Sentence,accuracy,45.00%,confidence
+triplet_with_confidence,Copeland Voting over Permutations -> Majority per Sentence,top1_accuracy,70.00%,confidence

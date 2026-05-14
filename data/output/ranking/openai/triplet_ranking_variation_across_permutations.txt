@@ -1,0 +1,6308 @@
+Across 6 permutations:
+
+For run 0:
+
+Sentence 0:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 4:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 6:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 7:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 8:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 9:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 10:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 11:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 12:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 13:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 14:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 15:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 16:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. worst > middle > best
+
+Sentence 17:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 18:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 19:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 20:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 21:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 22:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 23:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 24:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Sentence 25:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 26:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 27:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 28:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 29:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 30:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 31:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 32:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Sentence 33:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 34:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 35:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 36:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 37:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 38:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 39:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 40:
+5 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 41:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 42:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 43:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 44:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 45:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 46:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 47:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 48:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 49:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 50:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 51:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 52:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 53:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 54:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 55:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 56:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 57:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 58:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 59:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 60:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 61:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 62:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 63:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 64:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 65:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 66:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 67:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 68:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 69:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > middle > best
+
+Sentence 70:
+3 different rankings:
+1. middle > worst > best
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 71:
+4 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 72:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 73:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 74:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 75:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 76:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 77:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 78:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Sentence 79:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 80:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 81:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 82:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 83:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 84:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 85:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 86:
+4 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 87:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 88:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 89:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 90:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 91:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 92:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 93:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 94:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 95:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 96:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 97:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 98:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 99:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+For run 1:
+
+Sentence 0:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 4:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 6:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 7:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 8:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 9:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 10:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 11:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 12:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 13:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 14:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 15:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 16:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. worst > middle > best
+
+Sentence 17:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 18:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 19:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 20:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 21:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 22:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 23:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 24:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Sentence 25:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 26:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 27:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 28:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 29:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 30:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 31:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 32:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Sentence 33:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 34:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 35:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 36:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 37:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 38:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 39:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 40:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 41:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 42:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 43:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 44:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 45:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 46:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 47:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 48:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 49:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 50:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 51:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 52:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 53:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 54:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 55:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > middle > best
+
+Sentence 56:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 57:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 58:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 59:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 60:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 61:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 62:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 63:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 64:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 65:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 66:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 67:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 68:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 69:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 70:
+3 different rankings:
+1. middle > worst > best
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 71:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 72:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 73:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 74:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 75:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 76:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 77:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 78:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Sentence 79:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 80:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 81:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 82:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 83:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 84:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 85:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 86:
+4 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 87:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 88:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 89:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 90:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 91:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 92:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 93:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 94:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 95:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 96:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 97:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 98:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 99:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+For run 2:
+
+Sentence 0:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 4:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 6:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 7:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 8:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 9:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 10:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 11:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 12:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 13:
+5 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 14:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 15:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 16:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. worst > middle > best
+
+Sentence 17:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 18:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 19:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 20:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 21:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 22:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 23:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 24:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Sentence 25:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 26:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 27:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 28:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 29:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 30:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 31:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > middle > best
+
+Sentence 32:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Sentence 33:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 34:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 35:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 36:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 37:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 38:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 39:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 40:
+5 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 41:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 42:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 43:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 44:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 45:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 46:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 47:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 48:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 49:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 50:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 51:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 52:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 53:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 54:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 55:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 56:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 57:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 58:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 59:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 60:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 61:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 62:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 63:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 64:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 65:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 66:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 67:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 68:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 69:
+3 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 70:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 71:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 72:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 73:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 74:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 75:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 76:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 77:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 78:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Sentence 79:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 80:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 81:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 82:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 83:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 84:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 85:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 86:
+3 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > middle > best
+
+Sentence 87:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 88:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 89:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 90:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 91:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 92:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 93:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 94:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 95:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 96:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 97:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 98:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 99:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+For run 3:
+
+Sentence 0:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 4:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 6:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 7:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 8:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 9:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > middle > best
+
+Sentence 10:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 11:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 12:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 13:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 14:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 15:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 16:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. worst > middle > best
+
+Sentence 17:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 18:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 19:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 20:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 21:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 22:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 23:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 24:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Sentence 25:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 26:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 27:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 28:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 29:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 30:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 31:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 32:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Sentence 33:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 34:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 35:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 36:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 37:
+3 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+
+Sentence 38:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 39:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 40:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 41:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 42:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 43:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 44:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 45:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 46:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 47:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 48:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 49:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 50:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 51:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 52:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 53:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 54:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 55:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 56:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 57:
+4 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 58:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 59:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 60:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 61:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 62:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 63:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > middle > best
+
+Sentence 64:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 65:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 66:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 67:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 68:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 69:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 70:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 71:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 72:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 73:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 74:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 75:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 76:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 77:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 78:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Sentence 79:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 80:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 81:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 82:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 83:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 84:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 85:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 86:
+3 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > middle > best
+
+Sentence 87:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 88:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 89:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 90:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 91:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 92:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 93:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 94:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 95:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 96:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 97:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 98:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 99:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+For run 4:
+
+Sentence 0:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 4:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 6:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 7:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 8:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 9:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > middle > best
+
+Sentence 10:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 11:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 12:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 13:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 14:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > middle > best
+
+Sentence 15:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 16:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 17:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 18:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 19:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 20:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 21:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 22:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 23:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 24:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 25:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 26:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 27:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 28:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 29:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 30:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 31:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 32:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Sentence 33:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 34:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 35:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 36:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 37:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 38:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 39:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 40:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 41:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 42:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 43:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 44:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 45:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 46:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 47:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 48:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 49:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 50:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 51:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 52:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 53:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 54:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 55:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 56:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 57:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 58:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 59:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 60:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 61:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 62:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 63:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 64:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 65:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 66:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 67:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 68:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 69:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 70:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 71:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 72:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 73:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 74:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 75:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 76:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 77:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 78:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 79:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 80:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 81:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 82:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 83:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 84:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 85:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 86:
+4 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 87:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 88:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 89:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 90:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 91:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 92:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 93:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 94:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 95:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 96:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 97:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 98:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 99:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+For run 5:
+
+Sentence 0:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 4:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 6:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 7:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 8:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 9:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 10:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 11:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 12:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 13:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 14:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 15:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 16:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 17:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 18:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 19:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 20:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 21:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 22:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 23:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 24:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 25:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 26:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 27:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 28:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 29:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 30:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 31:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 32:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Sentence 33:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 34:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 35:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 36:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 37:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 38:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 39:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 40:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 41:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 42:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 43:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 44:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 45:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 46:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 47:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 48:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 49:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 50:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 51:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 52:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 53:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 54:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 55:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 56:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 57:
+4 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 58:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 59:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 60:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 61:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 62:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 63:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > middle > best
+
+Sentence 64:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 65:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 66:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 67:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 68:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 69:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 70:
+3 different rankings:
+1. middle > worst > best
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 71:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 72:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 73:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 74:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 75:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 76:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 77:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 78:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Sentence 79:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 80:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 81:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 82:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 83:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 84:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 85:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 86:
+4 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 87:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 88:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 89:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 90:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 91:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 92:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 93:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 94:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 95:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 96:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 97:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 98:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 99:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+For run 6:
+
+Sentence 0:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 4:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 6:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 7:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 8:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 9:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 10:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 11:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 12:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 13:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 14:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 15:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 16:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. worst > middle > best
+
+Sentence 17:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 18:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 19:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 20:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 21:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 22:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 23:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 24:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Sentence 25:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 26:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 27:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 28:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 29:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 30:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 31:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 32:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Sentence 33:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 34:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 35:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 36:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 37:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 38:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 39:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 40:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 41:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 42:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 43:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 44:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 45:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 46:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 47:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 48:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 49:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 50:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 51:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 52:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 53:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 54:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 55:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 56:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 57:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 58:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 59:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 60:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 61:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 62:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 63:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 64:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 65:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 66:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 67:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 68:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 69:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 70:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 71:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 72:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 73:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 74:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 75:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 76:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 77:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 78:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 79:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 80:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 81:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 82:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 83:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 84:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 85:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 86:
+4 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 87:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 88:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 89:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 90:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 91:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 92:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 93:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 94:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 95:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 96:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 97:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 98:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 99:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+For run 7:
+
+Sentence 0:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 4:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 6:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 7:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 8:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 9:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 10:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 11:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 12:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 13:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 14:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 15:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 16:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 17:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 18:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 19:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 20:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 21:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 22:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 23:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 24:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 25:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 26:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 27:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 28:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 29:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 30:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 31:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 32:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 33:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 34:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 35:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 36:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 37:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 38:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 39:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 40:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 41:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 42:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 43:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 44:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 45:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 46:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 47:
+4 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 48:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 49:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 50:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 51:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 52:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 53:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 54:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 55:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 56:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 57:
+4 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 58:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 59:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 60:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 61:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 62:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 63:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > middle > best
+
+Sentence 64:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 65:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 66:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 67:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 68:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 69:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 70:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 71:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 72:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 73:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 74:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 75:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 76:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 77:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 78:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Sentence 79:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 80:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 81:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 82:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 83:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 84:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 85:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 86:
+3 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > middle > best
+
+Sentence 87:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 88:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 89:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 90:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 91:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 92:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 93:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 94:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 95:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 96:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 97:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 98:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 99:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+For run 8:
+
+Sentence 0:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 3:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 4:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 6:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 7:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 8:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 9:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 10:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 11:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 12:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 13:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 14:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 15:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 16:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 17:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 18:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 19:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 20:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 21:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 22:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 23:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 24:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Sentence 25:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 26:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 27:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 28:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 29:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 30:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 31:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 32:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Sentence 33:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 34:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 35:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 36:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 37:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 38:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 39:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 40:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 41:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 42:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 43:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 44:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 45:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 46:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 47:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 48:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 49:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 50:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 51:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 52:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 53:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 54:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 55:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 56:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 57:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 58:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 59:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 60:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 61:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 62:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 63:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 64:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 65:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 66:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 67:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 68:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 69:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 70:
+3 different rankings:
+1. middle > worst > best
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 71:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 72:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 73:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 74:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 75:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 76:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 77:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 78:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Sentence 79:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 80:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 81:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 82:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 83:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 84:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 85:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 86:
+4 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 87:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 88:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 89:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 90:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 91:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 92:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 93:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 94:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 95:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 96:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 97:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 98:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 99:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+For run 9:
+
+Sentence 0:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 1:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 2:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 3:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 4:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 5:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 6:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 7:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 8:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 9:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 10:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 11:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 12:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 13:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 14:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 15:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 16:
+3 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 17:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 18:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 19:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 20:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 21:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 22:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 23:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 24:
+2 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+
+Sentence 25:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 26:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 27:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 28:
+3 different rankings:
+1. best > middle > worst
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 29:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 30:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 31:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 32:
+2 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+
+Sentence 33:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 34:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 35:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 36:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 37:
+3 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+
+Sentence 38:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 39:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 40:
+5 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 41:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 42:
+2 different rankings:
+1. middle > worst > best
+2. worst > middle > best
+
+Sentence 43:
+4 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 44:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 45:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 46:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 47:
+5 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 48:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 49:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 50:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 51:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 52:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 53:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 54:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 55:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 56:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 57:
+4 different rankings:
+1. middle > best > worst
+2. middle > worst > best
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 58:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > middle > best
+
+Sentence 59:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 60:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+
+Sentence 61:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 62:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+
+Sentence 63:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 64:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+
+Sentence 65:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 66:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 67:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > middle > best
+
+Sentence 68:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 69:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 70:
+3 different rankings:
+1. middle > worst > best
+2. worst > best > middle
+3. worst > middle > best
+
+Sentence 71:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 72:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > best > middle
+5. worst > middle > best
+
+Sentence 73:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 74:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+
+Sentence 75:
+2 different rankings:
+1. best > worst > middle
+2. worst > best > middle
+
+Sentence 76:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 77:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. worst > best > middle
+
+Sentence 78:
+3 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. worst > best > middle
+
+Sentence 79:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 80:
+4 different rankings:
+1. best > worst > middle
+2. middle > best > worst
+3. middle > worst > best
+4. worst > best > middle
+
+Sentence 81:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 82:
+1 different rankings:
+1. best > middle > worst
+
+Sentence 83:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 84:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 85:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 86:
+3 different rankings:
+1. best > middle > worst
+2. middle > worst > best
+3. worst > middle > best
+
+Sentence 87:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 88:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > worst > best
+4. worst > middle > best
+
+Sentence 89:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 90:
+6 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle
+6. worst > middle > best
+
+Sentence 91:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. worst > best > middle
+4. worst > middle > best
+
+Sentence 92:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 93:
+2 different rankings:
+1. best > middle > worst
+2. middle > best > worst
+
+Sentence 94:
+3 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+
+Sentence 95:
+2 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+
+Sentence 96:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 97:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 98:
+4 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+
+Sentence 99:
+5 different rankings:
+1. best > middle > worst
+2. best > worst > middle
+3. middle > best > worst
+4. middle > worst > best
+5. worst > best > middle

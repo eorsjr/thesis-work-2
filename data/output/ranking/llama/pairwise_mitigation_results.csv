@@ -1,0 +1,21 @@
+experiment_type,method,metric,value,tie_breaking_strategy
+pairwise,Baseline Pairwise,pairwise_accuracy,67.45%,
+pairwise,Pairwise Majority Voting per Pair,pairwise_accuracy,71.00%,random
+pairwise_to_triplet,Pairwise Majority per Pair -> Triplet,accuracy,39.00%,random
+pairwise_to_triplet,Pairwise Majority per Pair -> Triplet,top1_accuracy,57.00%,random
+pairwise,Pairwise Majority over Directions -> per Pair,pairwise_accuracy,68.33%,random
+pairwise_to_triplet,Pairwise Majority over Directions -> per Pair -> Triplet,accuracy,34.00%,random
+pairwise_to_triplet,Pairwise Majority over Directions -> per Pair -> Triplet,top1_accuracy,47.00%,random
+pairwise_with_confidence,Baseline Pairwise,pairwise_accuracy,66.72%,
+pairwise_with_confidence,Pairwise Majority Voting per Pair,pairwise_accuracy,72.33%,random
+pairwise_with_confidence_to_triplet,Pairwise Majority per Pair -> Triplet,accuracy,45.00%,random
+pairwise_with_confidence_to_triplet,Pairwise Majority per Pair -> Triplet,top1_accuracy,62.00%,random
+pairwise_with_confidence,Pairwise Majority over Directions -> per Pair,pairwise_accuracy,67.00%,random
+pairwise_with_confidence_to_triplet,Pairwise Majority over Directions -> per Pair -> Triplet,accuracy,35.00%,random
+pairwise_with_confidence_to_triplet,Pairwise Majority over Directions -> per Pair -> Triplet,top1_accuracy,48.00%,random
+pairwise_with_confidence,Pairwise Majority Voting per Pair,pairwise_accuracy,71.00%,confidence
+pairwise_with_confidence_to_triplet,Pairwise Majority per Pair -> Triplet,accuracy,40.00%,confidence
+pairwise_with_confidence_to_triplet,Pairwise Majority per Pair -> Triplet,top1_accuracy,61.00%,confidence
+pairwise_with_confidence,Pairwise Majority over Directions -> per Pair,pairwise_accuracy,72.00%,confidence
+pairwise_with_confidence_to_triplet,Pairwise Majority over Directions -> per Pair -> Triplet,accuracy,43.00%,confidence
+pairwise_with_confidence_to_triplet,Pairwise Majority over Directions -> per Pair -> Triplet,top1_accuracy,60.00%,confidence

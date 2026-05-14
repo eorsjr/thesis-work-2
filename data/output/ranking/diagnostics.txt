@@ -1,0 +1,88 @@
+Backend: openai
+
+--- Diagnostics: Correct Ranking ---
+Sentences where correct ranking exists: 91
+Sentences without correct ranking: 9
+Sentence IDs without correct ranking:
+[11, 29, 40, 42, 62, 70, 75, 78, 80] 
+
+--- Diagnostics: Correct Ranking ---
+Sentences where correct ranking exists: 88
+Sentences without correct ranking: 12
+Sentence IDs without correct ranking:
+[11, 15, 29, 32, 42, 57, 62, 69, 70, 75, 78, 80] 
+
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority per Pair -> Triplet) ---
+Sentences with cycles: 6
+Sentence IDs with cycles:
+[5, 14, 15, 23, 25, 72] 
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority over Directions -> per Pair -> Triplet) ---
+Sentences with cycles: 4
+Sentence IDs with cycles:
+[14, 15, 34, 38]
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority per Pair -> Triplet, random) ---
+Sentences with cycles: 9
+Sentence IDs with cycles:
+[5, 14, 15, 25, 38, 40, 57, 77, 88] 
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority over Directions -> per Pair -> Triplet, random) ---
+Sentences with cycles: 3
+Sentence IDs with cycles:
+[15, 69, 77] 
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority per Pair -> Triplet, confidence) ---
+Sentences with cycles: 3
+Sentence IDs with cycles:
+[25, 39, 45] 
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority over Directions -> per Pair -> Triplet, confidence) ---
+Sentences with cycles: 5
+Sentence IDs with cycles:
+[2, 15, 25, 38, 45] 
+
+
+Backend: llama
+
+--- Diagnostics: Correct Ranking ---
+Sentences where correct ranking exists: 100
+Sentences without correct ranking: 0
+
+--- Diagnostics: Correct Ranking ---
+Sentences where correct ranking exists: 97
+Sentences without correct ranking: 3
+Sentence IDs without correct ranking:
+[37, 42, 61] 
+
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority per Pair -> Triplet) ---
+Sentences with cycles: 2
+Sentence IDs with cycles:
+[12, 34] 
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority over Directions -> per Pair -> Triplet) ---
+Sentences with cycles: 8
+Sentence IDs with cycles:
+[2, 14, 20, 36, 39, 46, 75, 94] 
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority per Pair -> Triplet, random) ---
+Sentences with cycles: 3
+Sentence IDs with cycles:
+[20, 69, 79] 
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority over Directions -> per Pair -> Triplet, random) ---
+Sentences with cycles: 5
+Sentence IDs with cycles:
+[0, 11, 27, 36, 79] 
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority per Pair -> Triplet, confidence) ---
+Sentences with cycles: 2
+Sentence IDs with cycles:
+[20, 69] 
+
+--- Diagnostics: Sentences with Cycles (Pairwise Majority over Directions -> per Pair -> Triplet, confidence) ---
+Sentences with cycles: 5
+Sentence IDs with cycles:
+[20, 35, 39, 52, 79] 

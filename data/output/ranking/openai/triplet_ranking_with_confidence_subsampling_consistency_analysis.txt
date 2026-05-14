@@ -1,0 +1,17 @@
+
+Running subsampling consistency analysis: 10 samples, each with 80 sentences.
+
+Sample 1: average consistency = 0.464
+Sample 2: average consistency = 0.477
+Sample 3: average consistency = 0.480
+Sample 4: average consistency = 0.457
+Sample 5: average consistency = 0.490
+Sample 6: average consistency = 0.462
+Sample 7: average consistency = 0.459
+Sample 8: average consistency = 0.481
+Sample 9: average consistency = 0.464
+Sample 10: average consistency = 0.476
+
+Subsampling consistency summary across 10 samples:
+Mean consistency: 0.471
+Variance across samples: 0.000125
